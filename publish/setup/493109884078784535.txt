@@ -1,0 +1,885 @@
+{
+  "ServerName": "Allah's Warriors",
+  "Categories": [
+    {
+      "CategoryName": "Text Channels",
+      "Position": 0,
+      "CategoryPermissions": []
+    },
+    {
+      "CategoryName": "Voice Channels",
+      "Position": 2,
+      "CategoryPermissions": []
+    },
+    {
+      "CategoryName": "Offices",
+      "Position": 1,
+      "CategoryPermissions": [
+        {
+          "PRole": "Lieutenant",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Jihadi Joe (Allah)",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Allah's Right Hand Man",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Colonel",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Major General",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Lieutenant Colonel",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Allah's Left Hand Men",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 1049600
+        },
+        {
+          "PRole": "General",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        }
+      ]
+    }
+  ],
+  "TextChannels": [
+    {
+      "IsNSFW": false,
+      "ChannelName": "hitlist",
+      "ChannelPermissions": [
+        {
+          "PRole": "Corporal",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Advanced Jihad",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Allah's Right Hand Man",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Sergeant",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Lieutenant",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Jihadi Joe (Allah)",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Captain",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Major General",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Lieutenant Colonel",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Colonel",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 1024
+        },
+        {
+          "PRole": "Allah's Left Hand Men",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "General",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        }
+      ],
+      "Position": 5,
+      "category": "Text Channels",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "documents",
+      "ChannelPermissions": [
+        {
+          "PRole": "Lieutenant General",
+          "AChannelPermissions": 2048,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        }
+      ],
+      "Position": 6,
+      "category": "Text Channels",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "memes",
+      "ChannelPermissions": [],
+      "Position": 2,
+      "category": "Text Channels",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "mysticals-office",
+      "ChannelPermissions": [
+        {
+          "PRole": "Lieutenant",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Jihadi Joe (Allah)",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Allah's Right Hand Man",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Colonel",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Major General",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Lieutenant Colonel",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Allah's Left Hand Men",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 1024
+        },
+        {
+          "PRole": "General",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        }
+      ],
+      "Position": 11,
+      "category": "Offices",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "raid-planning",
+      "ChannelPermissions": [
+        {
+          "PRole": "Lieutenant General",
+          "AChannelPermissions": 2048,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        }
+      ],
+      "Position": 4,
+      "category": "Text Channels",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "announcements",
+      "ChannelPermissions": [
+        {
+          "PRole": "Lieutenant General",
+          "AChannelPermissions": 2048,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        }
+      ],
+      "Position": 3,
+      "category": "Text Channels",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "jacksons-office",
+      "ChannelPermissions": [
+        {
+          "PRole": "Lieutenant",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Jihadi Joe (Allah)",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Allah's Right Hand Man",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Colonel",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Major General",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Lieutenant Colonel",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Allah's Left Hand Men",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 1049600
+        },
+        {
+          "PRole": "General",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        }
+      ],
+      "Position": 14,
+      "category": "Offices",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "member-count",
+      "ChannelPermissions": [],
+      "Position": 8,
+      "category": "Text Channels",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "suspension-reasons",
+      "ChannelPermissions": [],
+      "Position": 9,
+      "category": "Text Channels",
+      "topic": null,
+      "LastMessages": [
+        {
+          "text": "**Format:**\n\nName:\nRank:\nDate:\nReason:\nProof:",
+          "author": "AzuRe Sebastian",
+          "timestamp": "2018-09-22T19:37:45.15+00:00"
+        }
+      ]
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "jessicas-office",
+      "ChannelPermissions": [
+        {
+          "PRole": "Lieutenant",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Jihadi Joe (Allah)",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Allah's Right Hand Man",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Colonel",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Major General",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Lieutenant Colonel",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Allah's Left Hand Men",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 1049600
+        },
+        {
+          "PRole": "General",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        }
+      ],
+      "Position": 16,
+      "category": "Offices",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "rules",
+      "ChannelPermissions": [],
+      "Position": 1,
+      "category": "Text Channels",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "ve6ous-office",
+      "ChannelPermissions": [
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 1024
+        }
+      ],
+      "Position": 12,
+      "category": "Offices",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "achievements",
+      "ChannelPermissions": [],
+      "Position": 10,
+      "category": "Text Channels",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "general",
+      "ChannelPermissions": [],
+      "Position": 0,
+      "category": "Text Channels",
+      "topic": null,
+      "LastMessages": [
+        {
+          "text": "",
+          "author": "Ve6ous",
+          "timestamp": "2018-09-22T19:55:49.756+00:00"
+        },
+        {
+          "text": "",
+          "author": "InviteManager",
+          "timestamp": "2018-09-22T19:51:24.236+00:00"
+        },
+        {
+          "text": "okay, ill try to find some. the current weapons inside the game are outdated",
+          "author": "AzuRe Sebastian",
+          "timestamp": "2018-09-22T19:38:31.831+00:00"
+        },
+        {
+          "text": "like nys",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-09-22T19:38:21.42+00:00"
+        },
+        {
+          "text": "get guns",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-09-22T19:38:18.449+00:00"
+        },
+        {
+          "text": "ok",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-09-22T19:38:02.301+00:00"
+        },
+        {
+          "text": "oof",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-09-22T19:38:01.041+00:00"
+        },
+        {
+          "text": "not the bank, only cars.",
+          "author": "AzuRe Sebastian",
+          "timestamp": "2018-09-22T19:37:53.639+00:00"
+        },
+        {
+          "text": "?",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-09-22T19:37:48.4+00:00"
+        },
+        {
+          "text": "does it have scripts",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-09-22T19:37:46.918+00:00"
+        }
+      ]
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "vote",
+      "ChannelPermissions": [],
+      "Position": 17,
+      "category": "Text Channels",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "furrock124s-office",
+      "ChannelPermissions": [
+        {
+          "PRole": "Lieutenant",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Jihadi Joe (Allah)",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Allah's Right Hand Man",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Colonel",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Major General",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Lieutenant Colonel",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Allah's Left Hand Men",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 1049600
+        },
+        {
+          "PRole": "General",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        }
+      ],
+      "Position": 15,
+      "category": "Offices",
+      "topic": "",
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "dress-code",
+      "ChannelPermissions": [
+        {
+          "PRole": "Lieutenant General",
+          "AChannelPermissions": 2048,
+          "DChannelPermissions": 0
+        }
+      ],
+      "Position": 7,
+      "category": "Text Channels",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "ratsys-office",
+      "ChannelPermissions": [
+        {
+          "PRole": "Lieutenant",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Jihadi Joe (Allah)",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Allah's Right Hand Man",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Colonel",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Major General",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Lieutenant Colonel",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Allah's Left Hand Men",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 1049600
+        },
+        {
+          "PRole": "General",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        }
+      ],
+      "Position": 13,
+      "category": "Offices",
+      "topic": "",
+      "LastMessages": []
+    }
+  ],
+  "AudioChannels": [
+    {
+      "UserLimit": null,
+      "ChannelName": "General/raids",
+      "ChannelPermissions": [],
+      "Position": 0,
+      "category": "Voice Channels"
+    },
+    {
+      "UserLimit": null,
+      "ChannelName": "General",
+      "ChannelPermissions": [],
+      "Position": 0,
+      "category": "Voice Channels"
+    }
+  ],
+  "Roles": [
+    {
+      "RoleName": "Administrator",
+      "RoleMembers": [],
+      "RawColour": 15277667,
+      "GuildPermissions": 2117455103,
+      "position": 3,
+      "DisplaySeperately": false,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Recruit Jihad",
+      "RoleMembers": [],
+      "RawColour": 2067276,
+      "GuildPermissions": 104188992,
+      "position": 7,
+      "DisplaySeperately": true,
+      "AllowMention": false
+    },
+    {
+      "RoleName": "Associates",
+      "RoleMembers": [],
+      "RawColour": 3447003,
+      "GuildPermissions": 104188992,
+      "position": 4,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Ally Representatives",
+      "RoleMembers": [],
+      "RawColour": 15844367,
+      "GuildPermissions": 104188992,
+      "position": 13,
+      "DisplaySeperately": false,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Verified",
+      "RoleMembers": [],
+      "RawColour": 0,
+      "GuildPermissions": 0,
+      "position": 1,
+      "DisplaySeperately": false,
+      "AllowMention": false
+    },
+    {
+      "RoleName": "General",
+      "RoleMembers": [],
+      "RawColour": 12787638,
+      "GuildPermissions": 104188993,
+      "position": 20,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Allah's Right Hand Man",
+      "RoleMembers": [
+        373090243982917634
+      ],
+      "RawColour": 13705923,
+      "GuildPermissions": 104189001,
+      "position": 22,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Corporal",
+      "RoleMembers": [
+        373090243982917634
+      ],
+      "RawColour": 2864693,
+      "GuildPermissions": 104188992,
+      "position": 10,
+      "DisplaySeperately": true,
+      "AllowMention": false
+    },
+    {
+      "RoleName": "Captain",
+      "RoleMembers": [],
+      "RawColour": 8785936,
+      "GuildPermissions": 104188992,
+      "position": 15,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Allah's Left Hand Men",
+      "RoleMembers": [],
+      "RawColour": 10375713,
+      "GuildPermissions": 104189001,
+      "position": 21,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Private",
+      "RoleMembers": [],
+      "RawColour": 2324522,
+      "GuildPermissions": 104188992,
+      "position": 8,
+      "DisplaySeperately": true,
+      "AllowMention": false
+    },
+    {
+      "RoleName": "Bots",
+      "RoleMembers": [
+        475776699641102356,
+        409875566800404480
+      ],
+      "RawColour": 3413655,
+      "GuildPermissions": 104189000,
+      "position": 23,
+      "DisplaySeperately": true,
+      "AllowMention": false
+    },
+    {
+      "RoleName": "Jihadi Joe (Allah)",
+      "RoleMembers": [
+        306168430233649152
+      ],
+      "RawColour": 15954202,
+      "GuildPermissions": 104189001,
+      "position": 25,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Lieutenant Colonel",
+      "RoleMembers": [],
+      "RawColour": 4785156,
+      "GuildPermissions": 104188992,
+      "position": 16,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Major General",
+      "RoleMembers": [],
+      "RawColour": 14163229,
+      "GuildPermissions": 104188993,
+      "position": 18,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Gamepasses",
+      "RoleMembers": [],
+      "RawColour": 13270546,
+      "GuildPermissions": 104188992,
+      "position": 5,
+      "DisplaySeperately": false,
+      "AllowMention": false
+    },
+    {
+      "RoleName": "Advanced Jihad",
+      "RoleMembers": [],
+      "RawColour": 3002168,
+      "GuildPermissions": 104188992,
+      "position": 11,
+      "DisplaySeperately": true,
+      "AllowMention": false
+    },
+    {
+      "RoleName": "Moderator",
+      "RoleMembers": [],
+      "RawColour": 11342935,
+      "GuildPermissions": 2117454931,
+      "position": 2,
+      "DisplaySeperately": false,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Lieutenant",
+      "RoleMembers": [],
+      "RawColour": 15011691,
+      "GuildPermissions": 104188992,
+      "position": 14,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Colonel",
+      "RoleMembers": [],
+      "RawColour": 11216679,
+      "GuildPermissions": 133680193,
+      "position": 17,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Sergeant",
+      "RoleMembers": [],
+      "RawColour": 2745654,
+      "GuildPermissions": 104188992,
+      "position": 12,
+      "DisplaySeperately": true,
+      "AllowMention": false
+    },
+    {
+      "RoleName": "Lance Corporal",
+      "RoleMembers": [],
+      "RawColour": 2728243,
+      "GuildPermissions": 104188992,
+      "position": 9,
+      "DisplaySeperately": true,
+      "AllowMention": false
+    },
+    {
+      "RoleName": "Lieutenant General",
+      "RoleMembers": [],
+      "RawColour": 16711680,
+      "GuildPermissions": 104188993,
+      "position": 19,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Ally",
+      "RoleMembers": [],
+      "RawColour": 15844367,
+      "GuildPermissions": 104188992,
+      "position": 6,
+      "DisplaySeperately": false,
+      "AllowMention": true
+    }
+  ],
+  "Bans": [
+    279385679195275275,
+    295272125747429388,
+    386685374031724544
+  ],
+  "EveryonePerms": 104188992,
+  "Users": [
+    475776699641102356,
+    373090243982917634,
+    424337002280779777,
+    306168430233649152,
+    409875566800404480
+  ],
+  "LastSave": "2018-09-22T12:54:06.1833235-07:00"
+}

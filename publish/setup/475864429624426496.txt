@@ -1,0 +1,1815 @@
+{
+  "ServerName": "Bluez",
+  "Categories": [
+    {
+      "CategoryName": "Staff",
+      "Position": 6,
+      "CategoryPermissions": [
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 1049600
+        },
+        {
+          "PRole": "Administrator",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Owner",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Co-Owner",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Bots",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Moderator",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2099264
+        }
+      ]
+    },
+    {
+      "CategoryName": "RANKS",
+      "Position": 3,
+      "CategoryPermissions": [
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2099264
+        }
+      ]
+    },
+    {
+      "CategoryName": "Voice",
+      "Position": 4,
+      "CategoryPermissions": [
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2099264
+        }
+      ]
+    },
+    {
+      "CategoryName": "---Chat---",
+      "Position": 1,
+      "CategoryPermissions": [
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2099264
+        }
+      ]
+    },
+    {
+      "CategoryName": "TAKE-NOTICE",
+      "Position": 5,
+      "CategoryPermissions": [
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2099264
+        }
+      ]
+    },
+    {
+      "CategoryName": "---Announcements---",
+      "Position": 0,
+      "CategoryPermissions": [
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2099264
+        }
+      ]
+    },
+    {
+      "CategoryName": "---Exploit---",
+      "Position": 2,
+      "CategoryPermissions": [
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2099264
+        }
+      ]
+    }
+  ],
+  "TextChannels": [
+    {
+      "IsNSFW": false,
+      "ChannelName": "beef",
+      "ChannelPermissions": [
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2112
+        }
+      ],
+      "Position": 6,
+      "category": "---Chat---",
+      "topic": "",
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "staff-chat",
+      "ChannelPermissions": [
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 1049600
+        },
+        {
+          "PRole": "Administrator",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Owner",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Co-Owner",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Bots",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Moderator",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Staff",
+          "AChannelPermissions": 3072,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2112
+        }
+      ],
+      "Position": 21,
+      "category": "Staff",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "staff-shitpost",
+      "ChannelPermissions": [
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 1050624
+        },
+        {
+          "PRole": "Administrator",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Owner",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Co-Owner",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Bots",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Moderator",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Staff",
+          "AChannelPermissions": 3072,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2112
+        }
+      ],
+      "Position": 23,
+      "category": "Staff",
+      "topic": "NO TALKING IN HERE",
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "suggestions",
+      "ChannelPermissions": [
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2099264
+        }
+      ],
+      "Position": 18,
+      "category": "TAKE-NOTICE",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "announcements",
+      "ChannelPermissions": [
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Active",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Mythical",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Godly",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Administrator",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Premium",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Member",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2112
+        },
+        {
+          "PRole": "Moderator",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        }
+      ],
+      "Position": 1,
+      "category": "---Announcements---",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "help",
+      "ChannelPermissions": [
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2099264
+        }
+      ],
+      "Position": 7,
+      "category": "---Chat---",
+      "topic": "",
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "general",
+      "ChannelPermissions": [
+        {
+          "PRole": "Active",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Premium",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Mythical",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Administrator",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Godly",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Member",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2112
+        },
+        {
+          "PRole": "Moderator",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 0
+        }
+      ],
+      "Position": 5,
+      "category": "---Chat---",
+      "topic": "",
+      "LastMessages": [
+        {
+          "text": "",
+          "author": "lolanater39",
+          "timestamp": "2018-08-06T13:09:10.798+00:00"
+        },
+        {
+          "text": "",
+          "author": "Oreo",
+          "timestamp": "2018-08-06T03:26:18.891+00:00"
+        },
+        {
+          "text": "Done!",
+          "author": "Oreo Bot",
+          "timestamp": "2018-08-06T03:24:32.529+00:00"
+        },
+        {
+          "text": "idk based off the original coder",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-08-06T03:24:32.12+00:00"
+        },
+        {
+          "text": "Adding Bans!",
+          "author": "Oreo Bot",
+          "timestamp": "2018-08-06T03:24:16.607+00:00"
+        },
+        {
+          "text": "Loaded Server Config!",
+          "author": "Oreo Bot",
+          "timestamp": "2018-08-06T03:24:16.505+00:00"
+        },
+        {
+          "text": ".loadbans 475778630077906945",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-08-06T03:24:16.32+00:00"
+        },
+        {
+          "text": "what is that store?",
+          "author": "cdarrew",
+          "timestamp": "2018-08-06T03:24:11.375+00:00"
+        },
+        {
+          "text": "Select a config\nC:\\Users\\kassa\\Downloads\\DiscordServerCloner2.0\\publish\\setup/474728711292452874.txt\nC:\\Users\\kassa\\Downloads\\DiscordServerCloner2.0\\publish\\setup/475778630077906945.txt\nC:\\Users\\kassa\\Downloads\\DiscordServerCloner2.0\\publish\\setup/475864429624426496.txt",
+          "author": "Oreo Bot",
+          "timestamp": "2018-08-06T03:24:01.168+00:00"
+        },
+        {
+          "text": ".loadbans",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-08-06T03:24:01.075+00:00"
+        }
+      ]
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "exploit-feedback",
+      "ChannelPermissions": [
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2112
+        }
+      ],
+      "Position": 19,
+      "category": "TAKE-NOTICE",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "key",
+      "ChannelPermissions": [
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Active",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Mythical",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Godly",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Administrator",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Premium",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Member",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2112
+        },
+        {
+          "PRole": "Moderator",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        }
+      ],
+      "Position": 14,
+      "category": "---Exploit---",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "staff-files",
+      "ChannelPermissions": [
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 1049600
+        },
+        {
+          "PRole": "Administrator",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Owner",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Co-Owner",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Bots",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Moderator",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Staff",
+          "AChannelPermissions": 3072,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2112
+        }
+      ],
+      "Position": 25,
+      "category": "Staff",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "verified-exploits",
+      "ChannelPermissions": [
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Active",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Mythical",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Godly",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Administrator",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Premium",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Member",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2112
+        },
+        {
+          "PRole": "Moderator",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        }
+      ],
+      "Position": 16,
+      "category": "---Exploit---",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "bot-cmds",
+      "ChannelPermissions": [
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2112
+        }
+      ],
+      "Position": 8,
+      "category": "---Chat---",
+      "topic": "",
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "staff-misc",
+      "ChannelPermissions": [
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 1049600
+        },
+        {
+          "PRole": "Administrator",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Owner",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Co-Owner",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Bots",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Moderator",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Staff",
+          "AChannelPermissions": 3072,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2112
+        }
+      ],
+      "Position": 24,
+      "category": "Staff",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "roleplay-chat",
+      "ChannelPermissions": [
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2099264
+        }
+      ],
+      "Position": 12,
+      "category": "---Chat---",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "staff-bot-cmds",
+      "ChannelPermissions": [
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 1049600
+        },
+        {
+          "PRole": "Administrator",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Owner",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Co-Owner",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Bots",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Moderator",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Staff",
+          "AChannelPermissions": 3072,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2112
+        }
+      ],
+      "Position": 27,
+      "category": "Staff",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "buy-ranks",
+      "ChannelPermissions": [
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Active",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Mythical",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Godly",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Administrator",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Premium",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Member",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2112
+        },
+        {
+          "PRole": "Moderator",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        }
+      ],
+      "Position": 17,
+      "category": "RANKS",
+      "topic": null,
+      "LastMessages": [
+        {
+          "text": "+saveserver",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-08-07T00:44:47.365+00:00"
+        }
+      ]
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "lua-scripts",
+      "ChannelPermissions": [
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2099264
+        }
+      ],
+      "Position": 15,
+      "category": "---Exploit---",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": true,
+      "ChannelName": "nsfw",
+      "ChannelPermissions": [
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2099264
+        }
+      ],
+      "Position": 9,
+      "category": "---Chat---",
+      "topic": "",
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "media",
+      "ChannelPermissions": [
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2112
+        }
+      ],
+      "Position": 10,
+      "category": "---Chat---",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "staff-stories",
+      "ChannelPermissions": [
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 1049600
+        },
+        {
+          "PRole": "Administrator",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Owner",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Co-Owner",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Bots",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Moderator",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Staff",
+          "AChannelPermissions": 3072,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2112
+        }
+      ],
+      "Position": 26,
+      "category": "Staff",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "staff-announcements",
+      "ChannelPermissions": [
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 1024
+        },
+        {
+          "PRole": "Administrator",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Owner",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Co-Owner",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Bots",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Moderator",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Staff",
+          "AChannelPermissions": 3072,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2112
+        }
+      ],
+      "Position": 22,
+      "category": "Staff",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "board-meeting",
+      "ChannelPermissions": [
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 1049600
+        },
+        {
+          "PRole": "Administrator",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Owner",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Co-Owner",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Bots",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Moderator",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Staff",
+          "AChannelPermissions": 3072,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2112
+        }
+      ],
+      "Position": 28,
+      "category": "Staff",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "premium-members",
+      "ChannelPermissions": [
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 3072
+        },
+        {
+          "PRole": "Member",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 3072
+        },
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2112
+        }
+      ],
+      "Position": 4,
+      "category": "---Announcements---",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "info",
+      "ChannelPermissions": [
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Active",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Mythical",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Godly",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Premium",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Member",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2112
+        }
+      ],
+      "Position": 3,
+      "category": "---Announcements---",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "chatlogs",
+      "ChannelPermissions": [
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Active",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Mythical",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Godly",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Administrator",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Premium",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Member",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2112
+        },
+        {
+          "PRole": "Moderator",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        }
+      ],
+      "Position": 0,
+      "category": "---Announcements---",
+      "topic": "",
+      "LastMessages": [
+        {
+          "text": ".h",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-08-06T03:32:50.221+00:00"
+        },
+        {
+          "text": "-help",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-08-06T03:32:21.348+00:00"
+        },
+        {
+          "text": "!help",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-08-06T03:32:05.986+00:00"
+        },
+        {
+          "text": "!cmds",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-08-06T03:32:00.015+00:00"
+        },
+        {
+          "text": ".cmds",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-08-06T03:31:54.177+00:00"
+        },
+        {
+          "text": ".help",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-08-06T03:31:45.548+00:00"
+        },
+        {
+          "text": "n!help",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-08-06T03:31:38.11+00:00"
+        },
+        {
+          "text": "n!cmds",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-08-06T03:31:18.677+00:00"
+        }
+      ]
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "download",
+      "ChannelPermissions": [
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Active",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Mythical",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Godly",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Administrator",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Premium",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Member",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2112
+        },
+        {
+          "PRole": "Co-Owner",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Moderator",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        }
+      ],
+      "Position": 13,
+      "category": "---Exploit---",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "questions",
+      "ChannelPermissions": [
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2112
+        }
+      ],
+      "Position": 20,
+      "category": "TAKE-NOTICE",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "anime",
+      "ChannelPermissions": [
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2099264
+        }
+      ],
+      "Position": 11,
+      "category": "---Chat---",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "rules",
+      "ChannelPermissions": [
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Active",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Mythical",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Godly",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Administrator",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Premium",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Member",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2112
+        },
+        {
+          "PRole": "Moderator",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        }
+      ],
+      "Position": 2,
+      "category": "---Announcements---",
+      "topic": null,
+      "LastMessages": []
+    }
+  ],
+  "AudioChannels": [
+    {
+      "UserLimit": 20,
+      "ChannelName": "General",
+      "ChannelPermissions": [
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2099264
+        }
+      ],
+      "Position": 0,
+      "category": "Voice"
+    },
+    {
+      "UserLimit": 20,
+      "ChannelName": "General #2",
+      "ChannelPermissions": [
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2097152
+        }
+      ],
+      "Position": 2,
+      "category": "Voice"
+    },
+    {
+      "UserLimit": 10,
+      "ChannelName": "Fortnite🛠",
+      "ChannelPermissions": [
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2097152
+        }
+      ],
+      "Position": 6,
+      "category": "Voice"
+    },
+    {
+      "UserLimit": 6,
+      "ChannelName": "Minecraft⛏",
+      "ChannelPermissions": [
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2097152
+        }
+      ],
+      "Position": 4,
+      "category": "Voice"
+    },
+    {
+      "UserLimit": 6,
+      "ChannelName": "Warframe⚔",
+      "ChannelPermissions": [
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2097152
+        }
+      ],
+      "Position": 10,
+      "category": "Voice"
+    },
+    {
+      "UserLimit": 20,
+      "ChannelName": "Karaoke🔈",
+      "ChannelPermissions": [
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2097152
+        }
+      ],
+      "Position": 8,
+      "category": "Voice"
+    },
+    {
+      "UserLimit": null,
+      "ChannelName": "Staff Music",
+      "ChannelPermissions": [
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 1049600
+        },
+        {
+          "PRole": "Beta Tester",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Administrator",
+          "AChannelPermissions": 66061568,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Owner",
+          "AChannelPermissions": 1049856,
+          "DChannelPermissions": 2097152
+        },
+        {
+          "PRole": "Co-Owner",
+          "AChannelPermissions": 30409728,
+          "DChannelPermissions": 35651840
+        },
+        {
+          "PRole": "Developer",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Bots",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Moderator",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 31457536
+        },
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2097152
+        }
+      ],
+      "Position": 11,
+      "category": "Staff"
+    },
+    {
+      "UserLimit": 5,
+      "ChannelName": "Music 🔉",
+      "ChannelPermissions": [
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2099264
+        }
+      ],
+      "Position": 1,
+      "category": "Voice"
+    },
+    {
+      "UserLimit": 6,
+      "ChannelName": "PUBG🗑",
+      "ChannelPermissions": [
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2097152
+        }
+      ],
+      "Position": 5,
+      "category": "Voice"
+    },
+    {
+      "UserLimit": 9,
+      "ChannelName": "AFK😴😴",
+      "ChannelPermissions": [
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2097152
+        }
+      ],
+      "Position": 9,
+      "category": "Voice"
+    },
+    {
+      "UserLimit": 5,
+      "ChannelName": "Mods",
+      "ChannelPermissions": [
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 1048576
+        },
+        {
+          "PRole": "Administrator",
+          "AChannelPermissions": 1048576,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Owner",
+          "AChannelPermissions": 1048576,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Co-Owner",
+          "AChannelPermissions": 1048576,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Bots",
+          "AChannelPermissions": 1048576,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Moderator",
+          "AChannelPermissions": 1048576,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2097152
+        }
+      ],
+      "Position": 7,
+      "category": "Voice"
+    },
+    {
+      "UserLimit": 20,
+      "ChannelName": "Music #2 🔊",
+      "ChannelPermissions": [
+        {
+          "PRole": "Muted",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2097152
+        }
+      ],
+      "Position": 3,
+      "category": "Voice"
+    }
+  ],
+  "Roles": [
+    {
+      "RoleName": "Memer",
+      "RoleMembers": [],
+      "RawColour": 1146986,
+      "GuildPermissions": 104324161,
+      "position": 2,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Moderator",
+      "RoleMembers": [],
+      "RawColour": 2123412,
+      "GuildPermissions": 267729993,
+      "position": 13,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Condom Popper",
+      "RoleMembers": [],
+      "RawColour": 15105570,
+      "GuildPermissions": 104188992,
+      "position": 5,
+      "DisplaySeperately": false,
+      "AllowMention": false
+    },
+    {
+      "RoleName": "Godly",
+      "RoleMembers": [],
+      "RawColour": 1752220,
+      "GuildPermissions": 104275009,
+      "position": 8,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Co-Owner",
+      "RoleMembers": [
+        306168430233649152
+      ],
+      "RawColour": 11027200,
+      "GuildPermissions": 104324169,
+      "position": 17,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Beta Tester",
+      "RoleMembers": [],
+      "RawColour": 15158332,
+      "GuildPermissions": 104193089,
+      "position": 10,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Mythical",
+      "RoleMembers": [],
+      "RawColour": 11342935,
+      "GuildPermissions": 104143936,
+      "position": 7,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Giveaway prize",
+      "RoleMembers": [],
+      "RawColour": 16775930,
+      "GuildPermissions": 104188993,
+      "position": 9,
+      "DisplaySeperately": false,
+      "AllowMention": false
+    },
+    {
+      "RoleName": "Bots",
+      "RoleMembers": [
+        475776699641102356,
+        457316755249823745
+      ],
+      "RawColour": 10181046,
+      "GuildPermissions": 104324161,
+      "position": 14,
+      "DisplaySeperately": true,
+      "AllowMention": false
+    },
+    {
+      "RoleName": "Muted",
+      "RoleMembers": [],
+      "RawColour": 9936031,
+      "GuildPermissions": 104193089,
+      "position": 1,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Developer",
+      "RoleMembers": [
+        306168430233649152
+      ],
+      "RawColour": 9936031,
+      "GuildPermissions": 133553217,
+      "position": 15,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Staff",
+      "RoleMembers": [],
+      "RawColour": 3447003,
+      "GuildPermissions": 104193089,
+      "position": 12,
+      "DisplaySeperately": false,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Active",
+      "RoleMembers": [],
+      "RawColour": 5533306,
+      "GuildPermissions": 104143936,
+      "position": 4,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Youtubers",
+      "RoleMembers": [],
+      "RawColour": 3447003,
+      "GuildPermissions": 1178065985,
+      "position": 11,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Administrator",
+      "RoleMembers": [
+        306168430233649152,
+        396891630893793300
+      ],
+      "RawColour": 3066993,
+      "GuildPermissions": 1312291913,
+      "position": 16,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Member",
+      "RoleMembers": [],
+      "RawColour": 15844367,
+      "GuildPermissions": 104141888,
+      "position": 3,
+      "DisplaySeperately": true,
+      "AllowMention": false
+    },
+    {
+      "RoleName": "Premium",
+      "RoleMembers": [],
+      "RawColour": 15158332,
+      "GuildPermissions": 104143936,
+      "position": 6,
+      "DisplaySeperately": true,
+      "AllowMention": false
+    },
+    {
+      "RoleName": "Owner",
+      "RoleMembers": [
+        306168430233649152
+      ],
+      "RawColour": 3447003,
+      "GuildPermissions": 104324161,
+      "position": 18,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    }
+  ],
+  "Bans": [
+    148265666867101696,
+    159985870458322944,
+    205918879896174593,
+    212277222248022016,
+    264777225331539968,
+    275971892144242688,
+    285851196579774486,
+    315759507332399104,
+    324828679450525708,
+    343615893365850113,
+    363719158292021259,
+    400055013747064832,
+    448628479043436555,
+    462181719987060737,
+    462182729480536064,
+    462235817117483008,
+    462236364629344287,
+    464591287052533793,
+    464593871830122517,
+    464594650506723328,
+    464595128825282560,
+    464595723405623301,
+    464596123663859733,
+    464597158012780552,
+    464597488200843264,
+    464598031963127818,
+    464811058725388293,
+    465705487653011456,
+    468144481179533339,
+    468146905113821195,
+    468147285893840897,
+    468147755810816000,
+    468150149051449355,
+    469970163689717780,
+    469970966588424214,
+    469971452020391947,
+    469972019413385226,
+    469972601561808907,
+    469973284121870339,
+    469973906694864907,
+    470818907205402656,
+    471071851519672322,
+    471073194217046068,
+    471073951431262208,
+    471075861974482944,
+    471082199903371284,
+    471083856116580354,
+    471086027113496576,
+    471087507308544000,
+    471092235430133761,
+    471505522399510538,
+    473326741989883904,
+    473642500649910293,
+    473642943207440406,
+    473644226752806923,
+    473644588230246400,
+    473644811128143872,
+    473645363522437130,
+    473645860123836416,
+    473645931309563906,
+    473646919932182540,
+    473647162664812554,
+    473647447927947265,
+    473648599524442122,
+    473649580018237440,
+    473798751203622913,
+    474138592600653824,
+    474282741261795328,
+    474283452368420865,
+    474284187281653760,
+    474284923361165312,
+    474285918635950097,
+    474286726085345280,
+    474287867775156234,
+    474288817503993856,
+    474293377869807617,
+    474294976910458887,
+    474297006727102504,
+    474302687194775559,
+    474303252943601682,
+    474304047365619723,
+    474305242390069248,
+    474346298133446669,
+    474583976812740628,
+    474592380541075476,
+    474596111609495589,
+    474597509562630184,
+    474622292438155275,
+    474631626668638220,
+    474634061839859713,
+    474639122296995850,
+    474812124628123649,
+    474812465088167940,
+    474813630039457804,
+    474814042637074443,
+    474815867830665237,
+    474818798856306689,
+    474819390387257349,
+    474819946749362188,
+    474823248157212705,
+    474824825756712983,
+    474829295664234514,
+    474832041138061312,
+    474836490275520522,
+    474973203543097384,
+    474990463317966849,
+    475104911151988762,
+    475106131073826818,
+    475111759917613063,
+    475128712057323521,
+    475612289010237450,
+    475653926516162570,
+    475654890094329857
+  ],
+  "EveryonePerms": 104193088,
+  "Users": [
+    306168430233649152,
+    396891630893793300,
+    187181305681805312,
+    475776699641102356,
+    457316755249823745
+  ],
+  "LastSave": "2018-08-06T17:43:34.5087224-07:00"
+}

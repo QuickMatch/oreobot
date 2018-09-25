@@ -1,0 +1,1371 @@
+{
+  "ServerName": "The Brooklyn Mafia",
+  "Categories": [
+    {
+      "CategoryName": "Text Channels",
+      "Position": 0,
+      "CategoryPermissions": []
+    },
+    {
+      "CategoryName": "Offices",
+      "Position": 1,
+      "CategoryPermissions": [
+        {
+          "PRole": "Lieutenant",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Lieutenant Colonel",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Boss of all bosses",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 1049600
+        },
+        {
+          "PRole": "Major General",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "The Boss.",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Colonel",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Underboss",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "General",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        }
+      ]
+    },
+    {
+      "CategoryName": "Voice Channels",
+      "Position": 2,
+      "CategoryPermissions": []
+    }
+  ],
+  "TextChannels": [
+    {
+      "IsNSFW": false,
+      "ChannelName": "memes",
+      "ChannelPermissions": [],
+      "Position": 2,
+      "category": "Text Channels",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "general",
+      "ChannelPermissions": [],
+      "Position": 0,
+      "category": "Text Channels",
+      "topic": null,
+      "LastMessages": [
+        {
+          "text": "",
+          "author": "InviteManager",
+          "timestamp": "2018-09-22T18:45:21.592+00:00"
+        },
+        {
+          "text": "i think",
+          "author": "AzuRe Sebastian",
+          "timestamp": "2018-09-22T18:45:08.883+00:00"
+        },
+        {
+          "text": "welp i went into the capitol b4 i waz arrested and i pumped contre in the face hes godded",
+          "author": "AzuRe Sebastian",
+          "timestamp": "2018-09-22T18:44:52.065+00:00"
+        },
+        {
+          "text": "what",
+          "author": "jessica",
+          "timestamp": "2018-09-22T18:42:06.087+00:00"
+        },
+        {
+          "text": "lmao",
+          "author": "roan.03",
+          "timestamp": "2018-09-22T18:40:53.235+00:00"
+        },
+        {
+          "text": "lmao jk",
+          "author": "Issac",
+          "timestamp": "2018-09-22T18:40:47.21+00:00"
+        },
+        {
+          "text": ";0",
+          "author": "Issac",
+          "timestamp": "2018-09-22T18:40:35.898+00:00"
+        },
+        {
+          "text": "<@423962584262377473> get on them knees and suck this fat dick",
+          "author": "Issac",
+          "timestamp": "2018-09-22T18:40:34.485+00:00"
+        },
+        {
+          "text": "ok",
+          "author": "jessica",
+          "timestamp": "2018-09-22T18:40:17.043+00:00"
+        },
+        {
+          "text": "xd",
+          "author": "roan.03",
+          "timestamp": "2018-09-22T18:40:12.272+00:00"
+        }
+      ]
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "hitlist",
+      "ChannelPermissions": [
+        {
+          "PRole": "Lieutenant",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Corporal",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Boss of all bosses",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 1024
+        },
+        {
+          "PRole": "Lieutenant Colonel",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Advanced",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Major General",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "The Boss.",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Sergeant",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Colonel",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Underboss",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "General",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Captain",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        }
+      ],
+      "Position": 5,
+      "category": "Text Channels",
+      "topic": null,
+      "LastMessages": [
+        {
+          "text": "vipmejorv2 for declaring war on us even though no one is in his gang",
+          "author": "rats",
+          "timestamp": "2018-09-21T01:17:56.499+00:00"
+        },
+        {
+          "text": "Trustbag466 is kos and anyone with him.",
+          "author": "rats",
+          "timestamp": "2018-09-15T21:41:48.862+00:00"
+        }
+      ]
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "vote",
+      "ChannelPermissions": [],
+      "Position": 17,
+      "category": "Text Channels",
+      "topic": null,
+      "LastMessages": [
+        {
+          "text": "https://discord.gg/zFk5WP <@288685606241042433>",
+          "author": "rats",
+          "timestamp": "2018-09-22T18:18:31.418+00:00"
+        },
+        {
+          "text": ":/",
+          "author": "fk4573",
+          "timestamp": "2018-09-22T18:12:28.433+00:00"
+        },
+        {
+          "text": "i like the kiler clown",
+          "author": "fk4573",
+          "timestamp": "2018-09-22T18:12:27.052+00:00"
+        },
+        {
+          "text": "https://t7.rbxcdn.com/e93e6777314af7866b62459f30c44508",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-09-22T18:05:55.322+00:00"
+        },
+        {
+          "text": "https://t0.rbxcdn.com/87c3015c60ce599c78f3c266264806ea",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-09-22T18:05:40.642+00:00"
+        },
+        {
+          "text": "<@291685466867236874>  join the vc",
+          "author": "rats",
+          "timestamp": "2018-09-22T17:57:44.645+00:00"
+        },
+        {
+          "text": "Vc",
+          "author": "Issac",
+          "timestamp": "2018-09-22T17:56:40.634+00:00"
+        },
+        {
+          "text": "<@311238559493521408> join the bc",
+          "author": "Issac",
+          "timestamp": "2018-09-22T17:56:39.107+00:00"
+        },
+        {
+          "text": "<@311673008747970560>  did u get banned?",
+          "author": "rats",
+          "timestamp": "2018-09-22T17:55:51.777+00:00"
+        },
+        {
+          "text": "if i do make one",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-09-22T17:48:36.034+00:00"
+        }
+      ]
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "documents",
+      "ChannelPermissions": [
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Lieutenant General",
+          "AChannelPermissions": 2048,
+          "DChannelPermissions": 0
+        }
+      ],
+      "Position": 6,
+      "category": "Text Channels",
+      "topic": null,
+      "LastMessages": []
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "dress-code",
+      "ChannelPermissions": [
+        {
+          "PRole": "Lieutenant General",
+          "AChannelPermissions": 2048,
+          "DChannelPermissions": 0
+        }
+      ],
+      "Position": 7,
+      "category": "Text Channels",
+      "topic": null,
+      "LastMessages": [
+        {
+          "text": "🔸 Formal Wear Such as:  🔸\n🔸 Black Polos 🔸\n🔸 Black Suits 🔸\n🔸 Grey Suits 🔸\n🔸 Tan Suits 🔸\n🔸 Black Pants 🔸\n🔸 Brown Pants 🔸\n🔸 Tan Pants 🔸\n🔸 Grey Pants 🔸\n🔸 Black, Tan, Grey, or Brown Formal Shorts (Female) 🔸\n🔸 Black Dresses (Female) 🔸\n🔸 Vests 🔸\n______________________________________________________________________________________________________\n🚫 NOT ALLOWED 🚫 \n🚫 Tank Tops 🚫 \n🚫  Jeans 🚫 \n🚫 Tee Shirts 🚫 \n🚫  Non Formal Wear 🚫 \n_______________________________________________________________________________________________________\n(ONLY ON UNDERCOVER WORK SHALL THESE BE ALLOWED)\n_______________________________________________________________________________________________________\n\nAlso Allowed:\n\n***Military Uniforms***\n***LEO Uniforms***\n_______________________________________________________________________________________________________\n\nApproved by the <@&489574523335606274>\n\n@everyone",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-09-13T21:51:34.725+00:00"
+        }
+      ]
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "suspension-reasons",
+      "ChannelPermissions": [],
+      "Position": 9,
+      "category": "Text Channels",
+      "topic": null,
+      "LastMessages": [
+        {
+          "text": "and u get ur general promo once u actually attend a raid ty",
+          "author": "rats",
+          "timestamp": "2018-09-21T01:16:10.911+00:00"
+        },
+        {
+          "text": "name jessica is big gay",
+          "author": "rats",
+          "timestamp": "2018-09-21T01:15:40+00:00"
+        },
+        {
+          "text": "suspension forever until I'm big general",
+          "author": "jessica",
+          "timestamp": "2018-09-20T19:55:42.836+00:00"
+        },
+        {
+          "text": "name ratsy",
+          "author": "jessica",
+          "timestamp": "2018-09-20T19:55:29.993+00:00"
+        },
+        {
+          "text": "Once his suspension is over, will be ranked to recruit",
+          "author": "rats",
+          "timestamp": "2018-09-20T01:44:35.843+00:00"
+        },
+        {
+          "text": "suspension: 3 days",
+          "author": "rats",
+          "timestamp": "2018-09-20T01:43:17.258+00:00"
+        },
+        {
+          "text": "Proof:",
+          "author": "rats",
+          "timestamp": "2018-09-20T01:15:22.087+00:00"
+        },
+        {
+          "text": "Reason: insulting HR's",
+          "author": "rats",
+          "timestamp": "2018-09-20T01:15:11.654+00:00"
+        },
+        {
+          "text": "Name: vipmejorv2",
+          "author": "rats",
+          "timestamp": "2018-09-20T01:15:05.253+00:00"
+        }
+      ]
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "jacksons-office",
+      "ChannelPermissions": [
+        {
+          "PRole": "Lieutenant",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Lieutenant Colonel",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Boss of all bosses",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 1049600
+        },
+        {
+          "PRole": "Major General",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "The Boss.",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Colonel",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Underboss",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "General",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        }
+      ],
+      "Position": 14,
+      "category": "Offices",
+      "topic": null,
+      "LastMessages": [
+        {
+          "text": "horrible office",
+          "author": "jessica",
+          "timestamp": "2018-09-22T17:26:29.865+00:00"
+        },
+        {
+          "text": "🙂",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-09-19T16:00:28.29+00:00"
+        },
+        {
+          "text": "<@306168430233649152> 😃",
+          "author": "jackson",
+          "timestamp": "2018-09-19T01:46:42.515+00:00"
+        },
+        {
+          "text": "k",
+          "author": "Ve6ous",
+          "timestamp": "2018-09-18T03:23:26.268+00:00"
+        },
+        {
+          "text": "<@424337002280779777> <@265540510159077377> is one of my best friends on Roblox",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-09-18T03:23:10.878+00:00"
+        },
+        {
+          "text": "mh",
+          "author": "Ve6ous",
+          "timestamp": "2018-09-18T02:05:50.24+00:00"
+        },
+        {
+          "text": "😉",
+          "author": "jackson",
+          "timestamp": "2018-09-18T00:41:57.233+00:00"
+        },
+        {
+          "text": "i will pull for u",
+          "author": "jackson",
+          "timestamp": "2018-09-18T00:41:54.429+00:00"
+        },
+        {
+          "text": "or if you need someone on your side",
+          "author": "jackson",
+          "timestamp": "2018-09-18T00:41:51.346+00:00"
+        },
+        {
+          "text": "People Trouble",
+          "author": "jackson",
+          "timestamp": "2018-09-18T00:41:22.052+00:00"
+        }
+      ]
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "jessicas-office",
+      "ChannelPermissions": [
+        {
+          "PRole": "Lieutenant",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Lieutenant Colonel",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Boss of all bosses",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 1049600
+        },
+        {
+          "PRole": "Major General",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "The Boss.",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Colonel",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Underboss",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "General",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        }
+      ],
+      "Position": 16,
+      "category": "Offices",
+      "topic": null,
+      "LastMessages": [
+        {
+          "text": "pro",
+          "author": "jessica",
+          "timestamp": "2018-09-22T17:26:14.533+00:00"
+        }
+      ]
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "announcements",
+      "ChannelPermissions": [
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Lieutenant General",
+          "AChannelPermissions": 2048,
+          "DChannelPermissions": 0
+        }
+      ],
+      "Position": 3,
+      "category": "Text Channels",
+      "topic": null,
+      "LastMessages": [
+        {
+          "text": "ok",
+          "author": "jessica",
+          "timestamp": "2018-09-22T18:17:53.625+00:00"
+        },
+        {
+          "text": "@everyone New uniform! We are now a themed gang. Please wear that uniform when we raid together.",
+          "author": "Ve6ous",
+          "timestamp": "2018-09-22T18:11:55.241+00:00"
+        },
+        {
+          "text": "HOLY SHIT there are 15 DHS Agents on! @here",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-09-22T15:09:17.768+00:00"
+        },
+        {
+          "text": "They were our enemies. But we got another war, we have to focus.",
+          "author": "Ve6ous",
+          "timestamp": "2018-09-22T13:32:41.888+00:00"
+        },
+        {
+          "text": "@everyone This is official. We are allied with Anonymus Gang. Please be respectful to them, we’ll raid and destroy together.",
+          "author": "Ve6ous",
+          "timestamp": "2018-09-22T02:52:11.02+00:00"
+        },
+        {
+          "text": "@everyone Forgot to say, but, okay there. I’m VERY proud of ALL of you, many of you attended the raid, we kidnapped one Lt and received some cash. If you are available tomorrow for another raid, please react.\n😶 11 Am EST\n😐 12 Am EST\n😑 2 Pm EST\n😬 3 Pm EST\nBy the way, those who attended today’s raid got promoted.",
+          "author": "Ve6ous",
+          "timestamp": "2018-09-22T02:04:19.11+00:00"
+        },
+        {
+          "text": "@everyone RAID NOW! Meet me at spawn-",
+          "author": "Ve6ous",
+          "timestamp": "2018-09-21T20:58:07.039+00:00"
+        },
+        {
+          "text": "k",
+          "author": "Ve6ous",
+          "timestamp": "2018-09-21T20:57:36.246+00:00"
+        },
+        {
+          "text": "me furrock and god are on",
+          "author": "rats",
+          "timestamp": "2018-09-21T20:57:20.097+00:00"
+        },
+        {
+          "text": "Nevermind. 4 of you reacted, and nobody came. Cancelled.",
+          "author": "Ve6ous",
+          "timestamp": "2018-09-21T20:57:08.302+00:00"
+        }
+      ]
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "ve6ous-office",
+      "ChannelPermissions": [
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 1024
+        }
+      ],
+      "Position": 12,
+      "category": "Offices",
+      "topic": null,
+      "LastMessages": [
+        {
+          "text": "accessories",
+          "author": "jessica",
+          "timestamp": "2018-09-22T17:26:40.999+00:00"
+        },
+        {
+          "text": "some",
+          "author": "jessica",
+          "timestamp": "2018-09-22T17:26:37.83+00:00"
+        },
+        {
+          "text": "needs",
+          "author": "jessica",
+          "timestamp": "2018-09-22T17:26:37.103+00:00"
+        },
+        {
+          "text": "bad office",
+          "author": "jessica",
+          "timestamp": "2018-09-22T17:26:36.079+00:00"
+        }
+      ]
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "rules",
+      "ChannelPermissions": [],
+      "Position": 1,
+      "category": "Text Channels",
+      "topic": null,
+      "LastMessages": [
+        {
+          "text": "If you are recruiting a member, ask them \"are you in any divisions or departments within NYC? And after that check their groups. If they are, don't recruit them.  If they claim they aren't and they are, they will be blacklisted for lying. And if you can, screenshot them asking to be in our gang and report it to a high rank in their division.",
+          "author": "rats",
+          "timestamp": "2018-09-13T02:37:45.226+00:00"
+        },
+        {
+          "text": "We do not hire any people in emergency services/ government divisions.",
+          "author": "rats",
+          "timestamp": "2018-09-13T02:36:16.996+00:00"
+        },
+        {
+          "text": "Our member limit is 18 (not including allies), we look for people good on combat. If you are inactive or don't represent the type of member we are looking for, we will suspend you or kick you out.",
+          "author": "rats",
+          "timestamp": "2018-09-13T02:35:02.2+00:00"
+        },
+        {
+          "text": "Do not invite anyone to the discord server without explicit privallege from our many hr's (don't ask me why there are so many).",
+          "author": "rats",
+          "timestamp": "2018-09-13T02:33:52.592+00:00"
+        },
+        {
+          "text": "Under no circumstances do you give information to FBI.",
+          "author": "rats",
+          "timestamp": "2018-09-13T02:33:18.886+00:00"
+        }
+      ]
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "member-count",
+      "ChannelPermissions": [],
+      "Position": 8,
+      "category": "Text Channels",
+      "topic": null,
+      "LastMessages": [
+        {
+          "text": "```17```",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-09-16T16:17:50.84+00:00"
+        }
+      ]
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "ratsys-office",
+      "ChannelPermissions": [
+        {
+          "PRole": "Lieutenant",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Lieutenant Colonel",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Boss of all bosses",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 1049600
+        },
+        {
+          "PRole": "Major General",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "The Boss.",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Colonel",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Underboss",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "General",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        }
+      ],
+      "Position": 13,
+      "category": "Offices",
+      "topic": "",
+      "LastMessages": [
+        {
+          "text": "horrbile office",
+          "author": "jessica",
+          "timestamp": "2018-09-22T16:16:47.943+00:00"
+        },
+        {
+          "text": "coming",
+          "author": "rats",
+          "timestamp": "2018-09-15T21:35:55.655+00:00"
+        },
+        {
+          "text": "<@!311238559493521408>y get on  need help",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-09-15T21:35:48.039+00:00"
+        },
+        {
+          "text": "@here declare war on trust military owned by trustbag446?",
+          "author": "rats",
+          "timestamp": "2018-09-15T21:33:51.997+00:00"
+        },
+        {
+          "text": "Going to the jeweler, bust the AP, yeah \nSlidin' on the water like a jet-ski, yeah \nI'm tryna fuck you and your bestie, yeah \nChopper with the scope so do not test me, yeah",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-09-15T20:43:34.766+00:00"
+        },
+        {
+          "text": "<@!311238559493521408>",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-09-15T20:42:40.339+00:00"
+        },
+        {
+          "text": "rats where are you",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-09-15T20:42:37.637+00:00"
+        },
+        {
+          "text": "ok",
+          "author": "rats",
+          "timestamp": "2018-09-15T20:35:40.824+00:00"
+        },
+        {
+          "text": "<@!311238559493521408> 18 members not including allies",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-09-15T20:35:17.077+00:00"
+        },
+        {
+          "text": "rules",
+          "author": "rats",
+          "timestamp": "2018-09-15T20:02:51.252+00:00"
+        }
+      ]
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "furrock124s-office",
+      "ChannelPermissions": [
+        {
+          "PRole": "Lieutenant",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Lieutenant Colonel",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Boss of all bosses",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 1049600
+        },
+        {
+          "PRole": "Major General",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "The Boss.",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Colonel",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Underboss",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "General",
+          "AChannelPermissions": 1049600,
+          "DChannelPermissions": 0
+        }
+      ],
+      "Position": 15,
+      "category": "Offices",
+      "topic": "",
+      "LastMessages": [
+        {
+          "text": "ratsys office is big gay",
+          "author": "furrock124",
+          "timestamp": "2018-09-22T03:42:36.764+00:00"
+        }
+      ]
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "raid-planning",
+      "ChannelPermissions": [
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 2048
+        },
+        {
+          "PRole": "Lieutenant General",
+          "AChannelPermissions": 2048,
+          "DChannelPermissions": 0
+        }
+      ],
+      "Position": 4,
+      "category": "Text Channels",
+      "topic": null,
+      "LastMessages": [
+        {
+          "text": "there are alot of dhs on",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-09-17T22:42:14.221+00:00"
+        },
+        {
+          "text": "@everyone",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-09-17T22:41:24.01+00:00"
+        },
+        {
+          "text": "also the other 2 cars are back up",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-09-17T22:40:47.383+00:00"
+        },
+        {
+          "text": "**Capitol raid plan: For this raid we will need 3 DHS online, 6 skilled members, 4 cars, 2-4 C4s for 3 people| I will assign a captain who will take 2 people and I will take 2 people me and the other 2 people i pick will buy guns and c4 while the captain and his team will get guns| We then will all go across the bridge to the capitol Me and another car will go in the hills and hide while the captain and his team go to the capitol and severely injure one DHS and wait for all of them to follow you then you lead them to misty or fd houses and buy one and hide in them and stall while we rob the capitol and escape try to not kill them at all so they don't respawn. say you have  a hostage or whatever to stall. if you have to run instead of shooting. We will take turns robbing. then after we exit safely take them out or whatever we will let you know. Also tell us when you have all of the DHS on you, then we will move after they are out of earshot.**",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-09-17T22:40:22.908+00:00"
+        },
+        {
+          "text": "^^",
+          "author": "rats",
+          "timestamp": "2018-09-17T22:40:17.083+00:00"
+        },
+        {
+          "text": "(do this raid soon)",
+          "author": "rats",
+          "timestamp": "2018-09-17T22:40:12.44+00:00"
+        },
+        {
+          "text": "We also will try and join a server with a few number of leo, and once we are set up call them on. (thumbs up for yes thumbs down for no).",
+          "author": "rats",
+          "timestamp": "2018-09-13T03:14:38.008+00:00"
+        },
+        {
+          "text": "in total, we would like to have 6 or 7 members online for this raid.",
+          "author": "rats",
+          "timestamp": "2018-09-13T03:13:08.172+00:00"
+        },
+        {
+          "text": "we will need the van for 1 member to take cover behind and get the dhs and EsU at low health. do not kill them, just bring then down to low health, and then hide the van behind starfox and run back in.",
+          "author": "rats",
+          "timestamp": "2018-09-13T03:12:07.369+00:00"
+        },
+        {
+          "text": "we will have the nypd cop in here to communicate on radio.",
+          "author": "rats",
+          "timestamp": "2018-09-13T03:10:32.808+00:00"
+        }
+      ]
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "mysticals-office",
+      "ChannelPermissions": [
+        {
+          "PRole": "Lieutenant",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Lieutenant Colonel",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Boss of all bosses",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "@everyone",
+          "AChannelPermissions": 0,
+          "DChannelPermissions": 1024
+        },
+        {
+          "PRole": "Major General",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "The Boss.",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Colonel",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "Underboss",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        },
+        {
+          "PRole": "General",
+          "AChannelPermissions": 1024,
+          "DChannelPermissions": 0
+        }
+      ],
+      "Position": 11,
+      "category": "Offices",
+      "topic": null,
+      "LastMessages": [
+        {
+          "text": "bad",
+          "author": "jessica",
+          "timestamp": "2018-09-22T16:16:57.645+00:00"
+        },
+        {
+          "text": "join vc",
+          "author": "rats",
+          "timestamp": "2018-09-22T01:35:00.407+00:00"
+        },
+        {
+          "text": "<@306168430233649152>  https://discord.gg/BrYtBb",
+          "author": "rats",
+          "timestamp": "2018-09-22T01:34:59.161+00:00"
+        },
+        {
+          "text": "i got stuck as fuck",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-09-15T20:54:26.202+00:00"
+        },
+        {
+          "text": "come follow us",
+          "author": "rats",
+          "timestamp": "2018-09-15T20:53:50.341+00:00"
+        },
+        {
+          "text": "ok <@346049389497679882>",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-09-13T23:53:22.688+00:00"
+        },
+        {
+          "text": "i did shes good",
+          "author": "furrock124",
+          "timestamp": "2018-09-13T23:29:37.035+00:00"
+        },
+        {
+          "text": "@everyone who invited jessica and what is her roblox user and did you check her",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-09-13T21:37:31.003+00:00"
+        }
+      ]
+    },
+    {
+      "IsNSFW": false,
+      "ChannelName": "achievements",
+      "ChannelPermissions": [],
+      "Position": 10,
+      "category": "Text Channels",
+      "topic": null,
+      "LastMessages": [
+        {
+          "text": "no aim",
+          "author": "rats",
+          "timestamp": "2018-09-22T16:18:37.221+00:00"
+        },
+        {
+          "text": "no skill",
+          "author": "jessica",
+          "timestamp": "2018-09-22T16:18:32.141+00:00"
+        },
+        {
+          "text": "dhs is bad",
+          "author": "jessica",
+          "timestamp": "2018-09-22T16:18:29.952+00:00"
+        },
+        {
+          "text": "pulled off a capitol heist solo",
+          "author": "XxMystical_SecretsxX",
+          "timestamp": "2018-09-21T00:15:11.192+00:00"
+        }
+      ]
+    }
+  ],
+  "AudioChannels": [
+    {
+      "UserLimit": null,
+      "ChannelName": "General/raids",
+      "ChannelPermissions": [],
+      "Position": 0,
+      "category": "Voice Channels"
+    }
+  ],
+  "Roles": [
+    {
+      "RoleName": "Colonel",
+      "RoleMembers": [
+        435114151803617281
+      ],
+      "RawColour": 11216679,
+      "GuildPermissions": 133680193,
+      "position": 14,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Lieutenant",
+      "RoleMembers": [],
+      "RawColour": 15011691,
+      "GuildPermissions": 104188992,
+      "position": 11,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Boss of all bosses",
+      "RoleMembers": [
+        306168430233649152
+      ],
+      "RawColour": 15954202,
+      "GuildPermissions": 104189001,
+      "position": 23,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Lieutenant Colonel",
+      "RoleMembers": [
+        306168430233649152
+      ],
+      "RawColour": 4785156,
+      "GuildPermissions": 104188992,
+      "position": 13,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Ally Representatives",
+      "RoleMembers": [
+        453353243859484675
+      ],
+      "RawColour": 15844367,
+      "GuildPermissions": 104188992,
+      "position": 1,
+      "DisplaySeperately": false,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "The Boss.",
+      "RoleMembers": [
+        424337002280779777
+      ],
+      "RawColour": 10375713,
+      "GuildPermissions": 104189001,
+      "position": 20,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Underboss",
+      "RoleMembers": [
+        311238559493521408
+      ],
+      "RawColour": 13705923,
+      "GuildPermissions": 104188993,
+      "position": 18,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Associates",
+      "RoleMembers": [],
+      "RawColour": 3447003,
+      "GuildPermissions": 104188992,
+      "position": 3,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Sergeant",
+      "RoleMembers": [],
+      "RawColour": 2745654,
+      "GuildPermissions": 104188992,
+      "position": 10,
+      "DisplaySeperately": true,
+      "AllowMention": false
+    },
+    {
+      "RoleName": "Advanced",
+      "RoleMembers": [
+        402997777111711744
+      ],
+      "RawColour": 3002168,
+      "GuildPermissions": 104188992,
+      "position": 9,
+      "DisplaySeperately": true,
+      "AllowMention": false
+    },
+    {
+      "RoleName": "Lance Corporal",
+      "RoleMembers": [
+        311486648019976192
+      ],
+      "RawColour": 2728243,
+      "GuildPermissions": 104188992,
+      "position": 7,
+      "DisplaySeperately": true,
+      "AllowMention": false
+    },
+    {
+      "RoleName": "Bots",
+      "RoleMembers": [
+        475776699641102356,
+        426537812993638400
+      ],
+      "RawColour": 3413655,
+      "GuildPermissions": 104188992,
+      "position": 19,
+      "DisplaySeperately": true,
+      "AllowMention": false
+    },
+    {
+      "RoleName": "Private",
+      "RoleMembers": [
+        311673008747970560,
+        291685466867236874
+      ],
+      "RawColour": 2324522,
+      "GuildPermissions": 104188992,
+      "position": 6,
+      "DisplaySeperately": true,
+      "AllowMention": false
+    },
+    {
+      "RoleName": "Verified",
+      "RoleMembers": [
+        308642241423867904
+      ],
+      "RawColour": 0,
+      "GuildPermissions": 0,
+      "position": 1,
+      "DisplaySeperately": false,
+      "AllowMention": false
+    },
+    {
+      "RoleName": "Major General",
+      "RoleMembers": [
+        423962584262377473,
+        451117151517147138
+      ],
+      "RawColour": 14163229,
+      "GuildPermissions": 104188993,
+      "position": 15,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Administrator",
+      "RoleMembers": [
+        424337002280779777,
+        265540510159077377,
+        346049389497679882,
+        423962584262377473,
+        311238559493521408,
+        451117151517147138
+      ],
+      "RawColour": 15277667,
+      "GuildPermissions": 2117455103,
+      "position": 2,
+      "DisplaySeperately": false,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Lieutenant General",
+      "RoleMembers": [
+        265540510159077377,
+        306168430233649152
+      ],
+      "RawColour": 16711680,
+      "GuildPermissions": 104188993,
+      "position": 16,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Ally",
+      "RoleMembers": [],
+      "RawColour": 15844367,
+      "GuildPermissions": 104188992,
+      "position": 1,
+      "DisplaySeperately": false,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "General",
+      "RoleMembers": [
+        346049389497679882
+      ],
+      "RawColour": 12787638,
+      "GuildPermissions": 104188993,
+      "position": 17,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Moderator",
+      "RoleMembers": [
+        435114151803617281
+      ],
+      "RawColour": 11342935,
+      "GuildPermissions": 2117454931,
+      "position": 1,
+      "DisplaySeperately": false,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Captain",
+      "RoleMembers": [
+        288685606241042433
+      ],
+      "RawColour": 8785936,
+      "GuildPermissions": 104188992,
+      "position": 12,
+      "DisplaySeperately": true,
+      "AllowMention": true
+    },
+    {
+      "RoleName": "Corporal",
+      "RoleMembers": [
+        373090243982917634
+      ],
+      "RawColour": 2864693,
+      "GuildPermissions": 104188992,
+      "position": 8,
+      "DisplaySeperately": true,
+      "AllowMention": false
+    },
+    {
+      "RoleName": "Gamepasses",
+      "RoleMembers": [
+        424337002280779777,
+        402997777111711744,
+        306168430233649152
+      ],
+      "RawColour": 13270546,
+      "GuildPermissions": 104188992,
+      "position": 4,
+      "DisplaySeperately": false,
+      "AllowMention": false
+    },
+    {
+      "RoleName": "Recruit",
+      "RoleMembers": [],
+      "RawColour": 2067276,
+      "GuildPermissions": 104188992,
+      "position": 5,
+      "DisplaySeperately": true,
+      "AllowMention": false
+    }
+  ],
+  "Bans": [
+    279385679195275275,
+    295272125747429388,
+    386685374031724544
+  ],
+  "EveryonePerms": 104188992,
+  "Users": [
+    288685606241042433,
+    424337002280779777,
+    265540510159077377,
+    311673008747970560,
+    435114151803617281,
+    402997777111711744,
+    475776699641102356,
+    306168430233649152,
+    308642241423867904,
+    346049389497679882,
+    423962584262377473,
+    373090243982917634,
+    426537812993638400,
+    311238559493521408,
+    409875566800404480,
+    451117151517147138,
+    453353243859484675,
+    291685466867236874,
+    311486648019976192
+  ],
+  "LastSave": "2018-09-22T11:43:37.3090987-07:00"
+}
